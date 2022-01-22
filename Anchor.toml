@@ -1,0 +1,12 @@
+[programs.localnet]
+myepicproject = "BJjPzhqDqn63eFpASiAekhsHW3vj7AUZhoNSsdyDcTZu"
+
+[registry]
+url = "https://anchor.projectserum.com"
+
+[provider]
+cluster = "devnet"
+wallet = "/home/nithsua/.config/solana/id.json"
+
+[scripts]
+test = "node tests/myepicproject.ts"
